@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Home
-order: 1
+permalink: /
 ---
 
 ## Welcome to Nowab In Data
