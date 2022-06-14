@@ -1,8 +1,5 @@
 ---
-YAML front matter
----
----
-layout: default
+layout: page
 title: Datasets
 permalink: /Datasets/
 
