@@ -175,7 +175,7 @@ To get this data use the function :`getDeputy(url,include_quest=True,quest_link=
   + `quest_link` (default=False) : True to include links of each question
   + `quest_det`(default=False): True to include question details (question text, Date Answer ...)
 
-There is two ways to get the `url`of a deputy : `getUrls()` and `getUrlByName(name)`. The first one outputs a dictionary of the complete list of deputies and there urls. The last one outputs the url of the deputy `name`. 
+There is two ways to get the `url`of a deputy : `getUrls()` and `getUrlByName(name)`. The first one outputs a dictionary of the complete list of deputies and there urls. The last one outputs the url of the deputy `name`..
 
 ```python
 url_bouanou=getUrlByName("Abdellah Bouanou") ## Get the link of Abdellah Bouanou
