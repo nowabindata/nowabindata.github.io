@@ -31,9 +31,11 @@ We provide a dataset with these information for all of  the 388 MPs (see link be
 
 ``` 
 #### Download
-| Nome | Description | Link | Last update|
-|-------|--------|---------|---------|
-| Deputies | Data of deputies | [.Zip](https://www.dropbox.com/sh/l12c9n81hsdo5jz/AAAsUukswbiuiXkPjenZ5Wx0a?dl=1) |16/09/2022|
+
+| Name | Link | Last update|
+|-------|---------|---------|
+| Deputies | [.Zip](https://www.dropbox.com/sh/l12c9n81hsdo5jz/AAAsUukswbiuiXkPjenZ5Wx0a?dl=1) | 16/09/2022 |
+
 
 
 ## Parliament settings
